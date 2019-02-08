@@ -1,0 +1,21 @@
+---
+version: 2
+multicolumn: false
+web-width: 500px
+align: center
+float: h!
+grid:
+  rows: 1
+  columns: 1
+  grid_elements:
+  - path: figures/sDPP4_CD26 Expression and Enzymatic Activity level changes in diseases
+      models  - Sheet1/sDPP4_CD26 Expression and Enzymatic Activity level changes
+      in diseases models  - Sheet1.csv
+    type: table
+    from:
+    - 1
+    - 1
+    to:
+    - 1
+    - 1
+    url: "/users/74776/articles/320468/master/file/figures/sDPP4_CD26%20Expression%20and%20Enzymatic%20Activity%20level%20changes%20in%20diseases%20models%20%20-%20Sheet1/sDPP4_CD26%20Expression%20and%20Enzymatic%20Activity%20level%20changes%20in%20diseases%20models%20%20-%20Sheet1.csv"
